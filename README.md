@@ -9,9 +9,7 @@ An interactive web app that explains Computer Science concepts using AI and test
 - **Instant Feedback** — see your score and which answers were correct
 - **7 CS Subjects** — Deep Learning, Machine Learning, Computer Vision, Data Structures & Algorithms, Programming in AI, Computer Graphics, General CS
 
-## Demo
 
-![AI Study Assistant Screenshot](screenshot.png)
 
 ## Tech Stack
 
@@ -24,7 +22,7 @@ An interactive web app that explains Computer Science concepts using AI and test
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-study-assistant.git
+git clone https://github.com/shushu637/ai-study-assistant.git
 cd ai-study-assistant
 ```
 
@@ -59,4 +57,4 @@ ai-study-assistant/
 
 ## Author
 
-Shahada Alsubhi — [shahadaalsubhi@gmail.com](mailto:shahadaalsubhi@gmail.com)
+Shahad Alsubhi — [shahadaalsubhi@gmail.com](mailto:shahadaalsubhi@gmail.com)
